@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": "dc58",
+      "name": "Lavar",
+      "description": "Lavar ropa",
+      "completed": true
+    },
+    {
+      "id": "bf2d",
+      "name": "Nadar",
+      "description": "Hay que nadar 2 km",
+      "completed": true
+    },
+    {
+      "id": "a44f",
+      "name": "jdjdjd",
+      "description": "jasjajsj",
+      "completed": false
+    },
+    {
+      "id": "9598",
+      "name": "Javier",
+      "description": "asassa",
+      "completed": false
+    },
+    {
+      "id": "9c01",
+      "name": "asdsad",
+      "description": "sadsad",
+      "completed": false
+    },
+    {
+      "id": "06e4",
+      "name": "sasd",
+      "description": "assad",
+      "completed": false
+    }
+  ]
+}
